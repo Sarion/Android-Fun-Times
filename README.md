@@ -1,4 +1,2 @@
 # Android-Fun-Times
-The bois and I have some good ole times with android development.
-
-Hell yea we are
+This repository is for the storage and sharing projects for the intent of learning android app development as a group.
